@@ -39,7 +39,7 @@ We desire to have an output with the schema:
   * name_client: string
   * payment: string
   * timestamp: timestamp
-  * product_name: timestamp
+  * product_name: string
   * product_size: string
   * product_price: int
   * percent_carbo: float
