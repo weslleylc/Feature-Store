@@ -1,0 +1,3 @@
+butterfree[h3]
+kafka-python
+faker
