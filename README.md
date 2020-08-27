@@ -1,5 +1,5 @@
 # Feature-Store
-A containerized approach using Apache Kafka, Spark, Cassandra, Hive, Jupyter, and Docker-compose.
+A containerized approach using Apache Kafka, Spark, Cassandra, Hive,postgresql, Jupyter, and Docker-compose.
 
 
 
