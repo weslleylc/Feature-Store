@@ -1,4 +1,4 @@
-# Spark Feature Store.
+# Spark-based Feature Store.
 A containerized approach using Apache Kafka, Spark, Cassandra, Hive,postgresql, Jupyter, and Docker-compose.
 
 Medium link https://medium.com/@weslleylc/building-a-feature-store-4a2dffee17fe
